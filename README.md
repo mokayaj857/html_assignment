@@ -37,11 +37,7 @@
 
     <section>
         <h2>Menu</h2>
-        <ul>
-            <li><a href="https://www.example.com/food1">Food Item 1</a></li>
-            <li><a href="https://www.example.com/food2">Food Item 2</a></li>
-            <li><a href="https://www.example.com/food3">Food Item 3</a></li>
-        </ul>
+        
     </section>
 </body>
 </html>
