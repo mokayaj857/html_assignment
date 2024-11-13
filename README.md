@@ -10,7 +10,7 @@
             grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
             gap: 10px;
         }
-    </style>
+    </style
 </head>
 <body>
     <section>
